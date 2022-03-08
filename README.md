@@ -1,6 +1,8 @@
 # How to Create Windows-8-like animations with CSS3 and jQuery
 This article was published on march, 2022, and takes approximately 16 minute(s) to read.
 
+<p align="center"><a href="https://wesley.io.ke" target="_blank"><img src="https://i.pinimg.com/564x/f9/98/a4/f998a4934bafffe1f857d3bb215eda61.jpg" width="400"></a></p>
+
 I have recently realized that CSS3 3D transforms have been out there for quite a long time now and yet I haven't experimented with them yet. I have also been using Windows 8 for a while now, and the first thing that struck me as impressive about it was the transitions and animations built into the dashboard, so I thought it would be really cool if my first experiment with CSS 3D transforms would be to recreate those animations and effects. So, here goes the tutorial on how I did that.
 
 * Please note that this demo works only in browsers that support the CSS3 properties used.
